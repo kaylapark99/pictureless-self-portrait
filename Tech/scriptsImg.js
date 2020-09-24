@@ -1,5 +1,5 @@
 var articles = document.querySelectorAll(".article");
-var zindex = 15;
+var zindex = 16;
 
 function displayArticles() {
     var i = 0;
